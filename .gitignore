@@ -1,0 +1,41 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary executables
+*.exe
+*.out
+*.out.exe
+a.out
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# Debug files
+*.pdb
+*.ilk
+*.dll
+*.so
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Mac / Linux system files
+.DS_Store
+Thumbs.db
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# CLion / JetBrains IDE
+.idea/
