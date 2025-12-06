@@ -10,7 +10,7 @@
 
 ## Notes form the solved questions 
 
-3. [Sorted and Rotated array] (../codes/01-Arrays/03_SortedAndRotated.cpp)
+3. [Sorted and rotated array](../codes/01-Arrays/03_SortedAndRotated.cpp)
 - Main thing to remember is that there are two edge cases
 - 1st case: 
   Array is not sorted (in ascending) if previous element is greater than the current element
